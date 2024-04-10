@@ -8,7 +8,7 @@ Some Digital Assets :
 > REKTguy 
 > NodeMonke
 
-![rektguy](images/rektguy.png)
+![rektGuy](images/rektGuy.png)
 
 **ALWAYS REMEMBER** \
 *NEVER give anyone your seedphrase* 
