@@ -6,7 +6,7 @@
 Some Digital Assets :
 
 > REKTguy 
-> NodeMonke
+> and NodeMonke
 
 ![rektGuy](images/rektGuy.png)
 
