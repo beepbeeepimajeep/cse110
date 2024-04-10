@@ -10,16 +10,18 @@ Some Digital Assets :
 
 ![rektGuy](images/rektGuy.png)
 
+[Click here to see my NodeMonke](images/nodeMonke.png)
+
 **ALWAYS REMEMBER** \
 *NEVER give anyone your seedphrase* 
 
 My task list: 
-- [ ] attend CSE110 greatness
+- [ ] attain CSE110 greatness
 - [x] wash dishes
 
 [Link to the About Me](#about-me)
 
-This site was built using [GitHub Pages]().
+This site was built using [GitHub Pages](https://github.com/beepbeeepimajeep/cse110).
 
-[Click here to see my NodeMonke](images/nodeMonke.png)
+
 
