@@ -8,20 +8,18 @@ Some Digital Assets :
 > REKTguy 
 > NodeMonke
 
-![REKTguy](images/REKYgut.png)
+![REKTguy](images/rektguy.png)
 
 **ALWAYS REMEMBER** \
 *NEVER give anyone your seedphrase* 
 
-: \
-use markdown quotes `` to mark the code such as `git add .` \
 My task list: 
 - [ ] attend CSE110 greatness
 - [x] wash dishes
 
-[Link to the About Me](#facts)
+[Link to the About Me](#about-me)
 
-This site was built using [GitHub Pages](https://iiuzifov.github.io/cse110.github.io/).
+This site was built using [GitHub Pages]().
 
 [Click here to see my NodeMonke](images/nodeMonke.png)
 
